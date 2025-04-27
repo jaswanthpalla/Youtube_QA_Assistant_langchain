@@ -1,7 +1,7 @@
 import streamlit as st
 from youtube_qa import answer_question
 
-st.title("YouTube Video Q&A with Hugging Face API")
+st.title("YouTube Video Q&A with Hugging Face API & Langchain")
 st.write("Enter a YouTube video URL, your Hugging Face API key, and ask a question about the video's content.")
 
 api_key = st.text_input("Hugging Face API Key", type="password")
