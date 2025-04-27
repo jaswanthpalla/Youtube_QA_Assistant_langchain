@@ -1,0 +1,7 @@
+youtube_transcript_api
+langchain
+langchain-community
+faiss-cpu
+huggingface_hub
+streamlit
+numpy
